@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <circle cx="80" cy="80" r="76" fill="#17140f" stroke="#d4ad52" stroke-width="4"/>
+  <path d="M48 57h64l8 62H40l8-62Z" fill="none" stroke="#e1b94f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M59 61c0-18 8-30 21-30s21 12 21 30" fill="none" stroke="#e1b94f" stroke-width="5"/>
+  <text x="80" y="103" fill="#e1b94f" font-family="Georgia,serif" font-size="41" font-weight="700" text-anchor="middle">J</text>
+  <text x="80" y="137" fill="#f1dfae" font-family="Georgia,serif" font-size="12" text-anchor="middle">JEFFCHILU’S</text>
+</svg>
